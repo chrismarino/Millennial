@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
+title: Theatre
 category: facts
-permalink: /facts
+permalink: /theatre
 ---
