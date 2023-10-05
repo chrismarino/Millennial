@@ -4,7 +4,7 @@ title: "Learning Resources"
 author: "Paul Le"
 categories: resources
 tags: [documentation,sample]
-image: IMG_5466.PNG
+image: y.jpg
 
 New image
 
