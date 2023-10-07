@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Television
+title: Resources
 category: resources
-permalink: /tv
+permalink: /resources
 ---
