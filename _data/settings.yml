@@ -4,11 +4,13 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-2'
+google-ID: 'Need GA ID'
 
 menu:
 - {name: 'Theatre',  url: 'theatre'}
 - {name: 'Television', url: 'tv'}
+- {name: 'Travel', url: 'travel'}
+- {name: 'Personal', url: 'personal'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
