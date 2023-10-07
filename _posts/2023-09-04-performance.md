@@ -2,7 +2,7 @@
 layout: post
 title: "Performance"
 author: "Vivian Marino"
-categories: theater
+categories: [tv,theater]
 image: stage.jpg
 ---
 
