@@ -7,7 +7,7 @@ image: stage.jpg
 ---
 
 The is me with my glam friends.
-![This is the Alt text that shows up when you hover](./assets/img/Jan/sanfrancisco.jpg)
+![](./assets/img/Jan/sanfrancisco.jpg)
 
 He is me on stage singing. 
 ![This is the Alt text that shows up when you hover](./assets/img/Jan/marin.jpg)
